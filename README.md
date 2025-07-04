@@ -1,4 +1,4 @@
-# Linux Docker在使用魔法时依旧无法拉取的解决方案
+# Linux Docker在使用魔法时依旧无法拉取的解决方案;docker pull使用代理后仍无法拉取
 在保证代理配置无误的情况下进行（curl www.google.com）
 
 手动配置dockerhub镜像
