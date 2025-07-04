@@ -7,6 +7,8 @@
 }
 
 这下就能愉快的拉取镜像了~
+
+
 ![微信图片_2025-07-04_093019_153](https://github.com/user-attachments/assets/0a65fed6-c23b-492b-b8e9-c94392aa146f)
 
 配置代理：
