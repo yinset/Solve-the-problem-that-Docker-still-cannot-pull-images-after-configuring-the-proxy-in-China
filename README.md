@@ -15,9 +15,13 @@ vim /etc/docker/daemon.json    没有则新建
 }
 
 重启docker
+
 sudo systemctl daemon-reload
+
 sudo systemctl restart docker
+
 sudo service docker restart
+
 
 这下就能愉快的拉取镜像了~
 
